@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Nuanlin community care"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Nuanlin"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Nuanlin"
+    },
+    {
+      "name": "mic_reason",
+      "value": "Used for voice answers and topic playback"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "Follow-ups and priority care due today"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "Nuanlin reminder"
+    },
+    {
+      "name": "widget_desc",
+      "value": "Shows follow-ups and priority care due today"
+    },
+    {
+      "name": "widget_display_name",
+      "value": "Nuanlin reminder"
+    },
+    {
+      "name": "tab_home",
+      "value": "Home"
+    },
+    {
+      "name": "tab_tools",
+      "value": "Tools"
+    },
+    {
+      "name": "tab_assistant",
+      "value": "Xiaonuan"
+    },
+    {
+      "name": "tab_settings",
+      "value": "Settings"
+    },
+    {
+      "name": "tools_title",
+      "value": "Tools"
+    },
+    {
+      "name": "tools_subtitle",
+      "value": "Capture to-dos and take a few minutes to breathe."
+    },
+    {
+      "name": "tools_footer",
+      "value": "Tools are for everyday notes and relaxation, not medical diagnosis."
+    }
+  ]
+}

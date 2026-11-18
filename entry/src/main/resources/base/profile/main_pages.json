@@ -1,0 +1,32 @@
+{
+    "src":  [
+                "pages/Welcome",
+                "pages/Home",
+                "pages/ResidentList",
+                "pages/ImportPerson",
+                "pages/PersonForm",
+                "pages/ResidenceEdit",
+                "pages/MapLocation",
+                "pages/CommunicationPreferences",
+                "pages/Interview",
+                "pages/Followup",
+                "pages/FollowupList",
+                "pages/FollowupQueue",
+                "pages/FollowupRecord",
+                "pages/CareList",
+                "pages/Notifications",
+                "pages/Profile",
+                "pages/Assistant",
+                "pages/Widgets",
+                "pages/BlankSupport",
+                "pages/Settings",
+                "pages/Login",
+                "pages/Tools",
+                "pages/Memo",
+                "pages/Breathe",
+                "pages/Journal",
+                "pages/VisitPlan"
+            ]
+}
+
+

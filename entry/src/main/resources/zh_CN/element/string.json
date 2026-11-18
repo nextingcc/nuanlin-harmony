@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "暖邻社区心理关怀"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "暖邻"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "暖邻"
+    },
+    {
+      "name": "mic_reason",
+      "value": "用于语音回答与题目播报"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "显示今日到期回访与重点关怀"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "暖邻提醒"
+    },
+    {
+      "name": "widget_desc",
+      "value": "显示今日到期回访与重点关怀数量"
+    },
+    {
+      "name": "widget_display_name",
+      "value": "暖邻提醒"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_tools",
+      "value": "工具"
+    },
+    {
+      "name": "tab_assistant",
+      "value": "小暖"
+    },
+    {
+      "name": "tab_settings",
+      "value": "设置"
+    },
+    {
+      "name": "tools_title",
+      "value": "工具"
+    },
+    {
+      "name": "tools_subtitle",
+      "value": "记录待办，也给自己几分钟呼吸。"
+    },
+    {
+      "name": "tools_footer",
+      "value": "工具只为日常记录与放松，不作医疗诊断。"
+    }
+  ]
+}

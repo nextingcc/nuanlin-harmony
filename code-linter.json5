@@ -1,0 +1,17 @@
+{
+  "files": [
+    "**/*.ets"
+  ],
+  "ignore": [
+    "**/build/**",
+    "**/node_modules/**",
+    "**/oh_modules/**",
+    "**/test/**",
+    "**/mock/**"
+  ],
+  "ruleSet": [
+    "plugin:@performance/recommended",
+    "plugin:@security/recommended"
+  ],
+  "rules": {}
+}

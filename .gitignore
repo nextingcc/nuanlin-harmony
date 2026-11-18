@@ -1,0 +1,10 @@
+node_modules/
+oh_modules/
+build/
+.hvigor/
+.cxx/
+local.properties
+*.hap
+/login.text
+# 完整字体只用于重新生成子集，不入库（子集在 rawfile 里）
+tools/fonts/*.ttf
